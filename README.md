@@ -28,6 +28,8 @@ Array of leds that changes randomly as to create a different course pattern in b
 4. Upload the slave code to each slave unit. Remember to change the TIKTOKNAME at the start of the code for each of the slave units.
   - and NUM_LEDS if you have a different number led strips then the one in the code.
 
+![Alt text](leds.jpg?raw=true "Tik Tok Flow")
+
 
 ## How to assemble it ( the master unit )
 
@@ -38,7 +40,7 @@ Array of leds that changes randomly as to create a different course pattern in b
 5. Plug the USB cable in the MASTER unit and pray it has enough current to power all the leds :D
   - You can also connect some 5v power source directly into the 5V connection in the arduino if you have too many leds.
 
-
+![Alt text](leds2.jpg?raw=true "Tik Tok Flow")
 
 
 
