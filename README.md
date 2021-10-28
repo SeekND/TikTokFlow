@@ -10,11 +10,9 @@ Array of leds that changes randomly as to create a different course pattern in b
 
 > 1x Arduino Nano for the MASTER that controls all slave units (or an uno if you have one should also work)
 
-> 1 DIODE (  >|  ) per slave unit.   
+> 1x DIODE (  >|  ) per slave unit.   
 
-> 5v addresseable leds (not the GRGB type. Find the ones that have 5v,DIN,Ground connections).
-
-
+> 5v addresseable leds strip (not the GRGB type. Find the ones that have 5v,DIN,Ground connections).
 
 > Lotsa cabling
 
