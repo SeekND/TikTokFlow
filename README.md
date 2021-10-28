@@ -24,8 +24,7 @@ Array of leds that changes randomly as to create a different course pattern in b
 
 1. Start by soldering ALL the WS2812 strip Ground cable (black) to Arduino ground, ALL WS2812 strip 5V cable (red) to Arduino 5V.
 2. Solder each of the 3 WS2812 strip din cable to Arduino D2, D3, D4 respectfully.
-3. Make as many slave units as you'd like.
-4. Upload the slave code to each slave unit. Remember to change the TIKTOKNAME at the start of the code for each of the slave units.
+3. Upload the slave code to each slave unit. Remember to change the TIKTOKNAME at the start of the code for each of the slave units.
   - and NUM_LEDS if you have a different number led strips then the one in the code.
 
 ![Alt text](leds.png?raw=true "Tik Tok Flow")
