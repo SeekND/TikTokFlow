@@ -6,9 +6,9 @@ Array of leds that changes randomly as to create a different course pattern in b
 
 ## Materials you need
 
-> 1x Arduino Nano PER SLAVE UNIT (3 in this case) (or an uno if you have one should also work)
+> 1x Arduino Nano PER SLAVE UNIT (3 in this case) (uno should also work)
 
-> 1x Arduino Nano for the MASTER that controls all slave units (or an uno if you have one should also work)
+> 1x Arduino Nano for the MASTER that controls all slave units (uno should also work)
 
 > 1x DIODE (  >|  ) per slave unit.   
 
