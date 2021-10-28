@@ -14,7 +14,7 @@ https://www.banggood.com/ATmega328P-Arduino-Compatible-Nano-V3-Improved-Version-
 
 > 1 DIODE (  >|  ) per slave unit.   
 
-> 5v addresseable leds (not the GRGB type. Find the ones that have 5v,DIN,Ground connections.
+> 5v addresseable leds (not the GRGB type. Find the ones that have 5v,DIN,Ground connections).
 
 
 
