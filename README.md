@@ -35,7 +35,7 @@ Array of leds that changes randomly as to create a different course pattern in b
 
 1. Solder the Ground from the MASTER to ALL the slave Arduino ground and the 5V and to ALL the slave Arduino 5V.
 2. Solder 3 diodes to the TX pin of the MASTER ARDUINO. (  >|  )
-3. Each of the Diodes will be connected to each RX pin of the slave arduinos.
+3. Each of the Diodes will be connected to each RX pin of the slave arduinos. The diode function is to not allow the signal to be mixed in between all slaves.
 4. Upload the master code to the MASTER unit. You can change FULLTIME, FLASHTIME and even add more sequences.
 5. Plug the USB cable in the MASTER unit and pray it has enough current to power all the leds :D
   - You can also connect some 5v power source directly into the 5V connection in the arduino if you have too many leds.
