@@ -16,6 +16,8 @@ Array of leds that changes randomly as to create a different course pattern in b
 
 > Lotsa cabling
 
+> Ardunino IDE and FASTLED library (google these if you don't know what they are or how to install them)
+
 
 
 ## How to assemble it ( per slave unit )
