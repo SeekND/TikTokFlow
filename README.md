@@ -19,12 +19,12 @@ Array of leds that changes randomly as to create a different course pattern in b
 ## How to assemble it
 
 1. Start by soldering ALL the WS2812 strip Ground cable (black) to Arduino ground, ALL WS2812 strip 5V cable (red) to Arduino 5V.
-1.1. IF you are using 12v just solder the red cable from WS2812 strip 12V to Arduino VIN
-2. Solder each of the 3 WS2812 strip din cable per unit to 
-2.1. 1st unit: Arduino D2, D3, D4
-2.2. 2st unit: Arduino D5, D6, D7
-2.3. 3rd unit: Arduino D9, D10, D11
-3. Upload the code to the arduino. Remember to change the NUM_LEDS if you have a different number led strips then the one in the code.
+2. IF you are using 12v just solder the red cable from WS2812 strip 12V to Arduino VIN
+3. Solder each of the 3 WS2812 strip din cable per unit to 
+4. 1st unit: Arduino D2, D3, D4
+5. 2st unit: Arduino D5, D6, D7
+6. 3rd unit: Arduino D9, D10, D11
+7. Upload the code to the arduino. Remember to change the NUM_LEDS if you have a different number led strips then the one in the code.
 
 
 
